@@ -1,2 +1,3 @@
-syntax for braching in git is 
-git branch branchname
+This is for branch command
+Branch command is use to feature branch to existing master branch to avoid the mess created by the regular changes
+Syntax for branching is  : git branch branchname

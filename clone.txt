@@ -1,0 +1,1 @@
+clone command is used to pull the remote repositoy to local system
